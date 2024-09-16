@@ -1,4 +1,4 @@
-Space Debris Projection Model
+# Space Debris Projection Model
 This project is based on the research paper "The Cost of (Un)regulation: Shrinking Earth’s Orbits and the Need for Sustainable Space Governance." 
 
 The paper discusses the growing issue of space debris in Earth's orbits and the need for sustainable space governance. It highlights the risks associated with the increasing number of satellites and debris, emphasizing that Earth's orbit is a limited resource at risk of becoming unusable if current trends continue.
